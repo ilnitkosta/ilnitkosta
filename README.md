@@ -1,8 +1,3 @@
 ## Hi there 👋 
 
-## 🧨 About me
-
-1. 🍀 Currently I am learning swift and iOS development! 
-2. 🚀 Always learning something new.
-3. 💤 Fun fact about me: I'm lazy.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilnitkosta)](https://github.com/anuraghazra/github-readme-stats)
